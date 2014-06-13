@@ -1,3 +1,4 @@
-android_project
-==============
-These are some app about android.
+Android-Game
+-----------------------
+
+There are some game of Android.
