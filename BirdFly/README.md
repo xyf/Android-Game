@@ -1,1 +1,3 @@
-This is a ball that can fly and cross the pipe.
+  这是一个小游戏，它类似于FlappyBird，但是它很简单。
+  这个下游戏使用Jbox2d制作完成，有一定的可玩性。
+  感兴趣的人可以试一下
